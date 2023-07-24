@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [ethanhazari.com](ethanhazari.com)
-
 - 💬 Ask me about **Java, Spring, Boot**
 
 - 📫 How to reach me **esihazar@gmail.com**
