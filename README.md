@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Spring, Boot**
 
-- 📫 How to reach me **esihazar@gmail.com**
+- 📫 How to reach me **ethan.hazari2022@gmail.com**
 
 - 📄 Know about my experiences [Resume *](Resume *)
 
