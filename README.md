@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan Hazari</h1>
 <h3 align="center">Programmer with Spring and React Expertise</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Java, Spring, Boot**
 
 - 📫 How to reach me **ethan.hazari2022@gmail.com**
