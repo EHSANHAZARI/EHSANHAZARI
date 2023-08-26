@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Hazari</h1>
-<h3 align="center">Hardworking Developer with a Passion for Excellence</h3>
+<h3 align="center">Programmer with Spring and React Expertise</h3>
 
 - 🌱 I’m currently learning **React**
 
